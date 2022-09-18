@@ -1,4 +1,2 @@
-name = afk_indicator_kick
-title = AFK Kick (AFK Indicator)
-description = Kick inactive players
-depends = afk_indicator
+# AFK Kick using AFK Indicator
+This is a configurable AFK Kick mod, see `settingtypes.txt` for help.
